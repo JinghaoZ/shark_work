@@ -1,0 +1,10 @@
+<?php
+
+return [
+    'class' => 'yii\db\Connection',
+    'dsn' => 'mysql:host=mysql530.db.sakura.ne.jp;dbname=iplab_enpit',
+    'username' => 'iplab',
+    'password' => 'tanaka2tanaka',
+    'charset' => 'utf8',
+    'tablePrefix' => 'task_',
+];
